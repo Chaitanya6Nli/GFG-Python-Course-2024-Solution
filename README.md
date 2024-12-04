@@ -75,7 +75,7 @@ The course consists of **10 modules**, each covering essential Python topics, wi
 
 ## 🤝 Contributions
 
-We welcome contributions to this repository! If you have optimized solutions, corrections, or alternative approaches, feel free to contribute. Here's how:
+I welcome contributions to this repository! If you have optimized solutions, corrections, or alternative approaches, feel free to contribute. Here's how:
 
 1. **Fork this repository**.
 2. Create a new branch: `git checkout -b feature/YourFeature`.
